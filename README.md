@@ -1,0 +1,2 @@
+# Web-Server-using-Java
+Designed a Web Server for clients to visit web pages using Multi-threading, Servlets, JSP, JSF, HTML and CSS. Used Server Socket, Socket and Inet4Address libraries to provide chat functionality to users and designed database in MySQL to store the chat history of users. Maintained entire web applications from HTML, SQL to J2EE. Threshold is set to 4 so, the server will terminate automatically after 4 succesful requests.
